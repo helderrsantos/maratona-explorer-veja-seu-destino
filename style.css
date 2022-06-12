@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -37,10 +38,7 @@ input,button{
 }
 
 input{
-    width: 98%;
     margin-bottom: 20px;
-    padding-left: 10px;
-    padding-right: 0;
     
 }
 
